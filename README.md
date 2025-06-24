@@ -54,13 +54,3 @@ JATAYU provides a low-cost and scalable solution to tackle road accidents caused
 
 ---
 
-## 📷 Screenshots / Media
-
-> *(Add circuit diagrams, working demo images or videos here if available)*
-
----
-
-## 📩 Contact
-
-Feel free to raise issues or reach out for collaboration!
-
